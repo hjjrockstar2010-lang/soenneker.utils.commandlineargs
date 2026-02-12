@@ -14,7 +14,7 @@
         <Version Condition="'$(BUILD_VERSION)' != ''">$(BUILD_VERSION)</Version>
         <AssemblyName>Soenneker.Utils.CommandLineArgs</AssemblyName>
         <PackageId>Soenneker.Utils.CommandLineArgs</PackageId>
-        <PackageTags>utils commandlineargs command line args dependency injection di commandlineargsutil util csharp dotnet c# .net</PackageTags>
+        <PackageTags>utils commandlineargs command line args dependency injection di commandlineargsutil util csharp dotnet c# .net commandline</PackageTags>
         <Copyright>Copyright © 2026 Jake Soenneker</Copyright>
         <Authors>Jake Soenneker</Authors>
         <Company>https://soenneker.com</Company>
